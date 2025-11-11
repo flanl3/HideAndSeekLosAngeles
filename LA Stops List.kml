@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
+    <Schema id="la_stops_list__reprojected.schema">
+      <SimpleField name="RB Stop" type="int"/>
+    </Schema>
     <Folder>
       <name>la_stops_list__reprojected</name>
       <Placemark id="la_stops_list__reprojected.1">
@@ -907,14 +910,6 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="la_stops_list__reprojected.115">
-        <name>Jefferson / Normandie</name>
-        <Point>
-          <coordinates>
-            -118.300481999875,34.0255185000285,0
-          </coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="la_stops_list__reprojected.116">
         <name>Crenshaw / Rosecrans</name>
         <Point>
@@ -960,14 +955,6 @@
         <Point>
           <coordinates>
             -118.357388000135,33.9712895000035,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.123">
-        <name>Reseda / Strathern</name>
-        <Point>
-          <coordinates>
-            -118.536076000127,34.2158635000956,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3955,14 +3942,6 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="la_stops_list__reprojected.507">
-        <name>Vermont / 1st</name>
-        <Point>
-          <coordinates>
-            -118.291666500075,34.0725895000947,0
-          </coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="la_stops_list__reprojected.508">
         <name>Florence / Prairie</name>
         <Point>
@@ -5659,14 +5638,6 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="la_stops_list__reprojected.725">
-        <name>Cahuenga / Yucca Layover</name>
-        <Point>
-          <coordinates>
-            -118.330113,34.104454,0
-          </coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="la_stops_list__reprojected.726">
         <name>La Cienega / Pico</name>
         <Point>
@@ -6827,14 +6798,6 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="la_stops_list__reprojected.874">
-        <name>Brand / California</name>
-        <Point>
-          <coordinates>
-            -118.255179953375,34.1496160003282,0
-          </coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="la_stops_list__reprojected.875">
         <name>Central / Arden</name>
         <Point>
@@ -7368,326 +7331,6 @@
         <Point>
           <coordinates>
             -118.182806,33.951502,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.943">
-        <name>Willowbrook / Rosa Parks</name>
-        <Point>
-          <coordinates>
-            -118.237555,33.928048,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.944">
-        <name>103rd St / Watts Towers</name>
-        <Point>
-          <coordinates>
-            -118.243159,33.94222,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.945">
-        <name>Grand / LATTC</name>
-        <Point>
-          <coordinates>
-            -118.269333,34.033155,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.946">
-        <name>LATTC / Ortho Institute</name>
-        <Point>
-          <coordinates>
-            -118.273603,34.029112,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.947">
-        <name>Jefferson / USC</name>
-        <Point>
-          <coordinates>
-            -118.278118,34.022123,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.948">
-        <name>Expo Park / USC</name>
-        <Point>
-          <coordinates>
-            -118.285734,34.018227,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.949">
-        <name>Expo / Vermont</name>
-        <Point>
-          <coordinates>
-            -118.29154,34.018245,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.950">
-        <name>Expo / Western</name>
-        <Point>
-          <coordinates>
-            -118.30891,34.018331,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.951">
-        <name>Expo / Crenshaw</name>
-        <Point>
-          <coordinates>
-            -118.335078,34.022526,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.952">
-        <name>Expo / La Brea</name>
-        <Point>
-          <coordinates>
-            -118.355159,34.024803,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.953">
-        <name>La Cienega / Jefferson</name>
-        <Point>
-          <coordinates>
-            -118.37212,34.026355,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.954">
-        <name>Westwood / Rancho Park</name>
-        <Point>
-          <coordinates>
-            -118.424576,34.036816,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.955">
-        <name>Expo / Sepulveda</name>
-        <Point>
-          <coordinates>
-            -118.434234,34.035408,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.956">
-        <name>Expo / Bundy</name>
-        <Point>
-          <coordinates>
-            -118.452896,34.031705,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.957">
-        <name>26th St / Bergamot</name>
-        <Point>
-          <coordinates>
-            -118.46912,34.027995,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.958">
-        <name>17th St / SMC</name>
-        <Point>
-          <coordinates>
-            -118.480372,34.023155,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.959">
-        <name>Universal City / Studio City</name>
-        <Point>
-          <coordinates>
-            -118.362699,34.140002,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.960">
-        <name>Hollywood / Highland</name>
-        <Point>
-          <coordinates>
-            -118.338549,34.101547,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.961">
-        <name>Hollywood / Vine</name>
-        <Point>
-          <coordinates>
-            -118.32518,34.10163,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.962">
-        <name>Hollywood / Western</name>
-        <Point>
-          <coordinates>
-            -118.308117,34.101737,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.963">
-        <name>Vermont / Sunset</name>
-        <Point>
-          <coordinates>
-            -118.291756,34.097708,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.964">
-        <name>Vermont / Santa Monica</name>
-        <Point>
-          <coordinates>
-            -118.29173,34.08991,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.965">
-        <name>Vermont / Beverly</name>
-        <Point>
-          <coordinates>
-            -118.291686,34.076526,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.966">
-        <name>Wilshire / Vermont</name>
-        <Point>
-          <coordinates>
-            -118.290082,34.062701,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.967">
-        <name>Westlake / MacArthur Park</name>
-        <Point>
-          <coordinates>
-            -118.274879,34.056368,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.968">
-        <name>7th St / Metro Ctr</name>
-        <Point>
-          <coordinates>
-            -118.258682,34.048634,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.969">
-        <name>Civic Ctr / Grand Park</name>
-        <Point>
-          <coordinates>
-            -118.246057,34.0549,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.970">
-        <name>Wilshire / Normandie</name>
-        <Point>
-          <coordinates>
-            -118.301458,34.061753,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.971">
-        <name>Wilshire / Western</name>
-        <Point>
-          <coordinates>
-            -118.308756,34.061689,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.972">
-        <name>Aviation / Imperial</name>
-        <Point>
-          <coordinates>
-            -118.377134,33.929621,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.973">
-        <name>Hawthorne / Lennox</name>
-        <Point>
-          <coordinates>
-            -118.351602,33.933408,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.974">
-        <name>Vermont / Athens</name>
-        <Point>
-          <coordinates>
-            -118.291733,33.928683,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.975">
-        <name>Pico / Aliso</name>
-        <Point>
-          <coordinates>
-            -118.22594,34.047634,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.976">
-        <name>Lincoln / Cypress</name>
-        <Point>
-          <coordinates>
-            -118.220429,34.080949,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.977">
-        <name>Duarte / City of Hope</name>
-        <Point>
-          <coordinates>
-            -117.96768,34.132518,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.978">
-        <name>APU / Citrus College</name>
-        <Point>
-          <coordinates>
-            -117.891636,34.136814,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.979">
-        <name>Aviation / Century</name>
-        <Point>
-          <coordinates>
-            -118.378683,33.945572,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.980">
-        <name>Westchester / Veterans</name>
-        <Point>
-          <coordinates>
-            -118.374378,33.962031,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.981">
-        <name>Grand Av Arts / Bunker Hill</name>
-        <Point>
-          <coordinates>
-            -118.251531,34.054724,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.982">
-        <name>Little Tokyo / Arts Dist</name>
-        <Point>
-          <coordinates>
-            -118.238757,34.048845,0
           </coordinates>
         </Point>
       </Placemark>
@@ -8891,670 +8534,6 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="la_stops_list__reprojected.1147">
-        <name>Pierce College</name>
-        <Point>
-          <coordinates>
-            -118.570937497403,34.1871720021673,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1148">
-        <name>Sherman Way</name>
-        <Point>
-          <coordinates>
-            -118.59713200013,34.2004250000221,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1149">
-        <name>Reseda</name>
-        <Point>
-          <coordinates>
-            -118.536021999503,34.1803920025277,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1150">
-        <name>Laurel Canyon</name>
-        <Point>
-          <coordinates>
-            -118.396488999512,34.1685205027279,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1151">
-        <name>LA General Medical Ctr</name>
-        <Point>
-          <coordinates>
-            -118.210980000002,34.0556575000004,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1152">
-        <name>Valley College</name>
-        <Point>
-          <coordinates>
-            -118.422351995918,34.1722715013326,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1153">
-        <name>Canoga</name>
-        <Point>
-          <coordinates>
-            -118.596456439026,34.1909066880741,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1154">
-        <name>De Soto</name>
-        <Point>
-          <coordinates>
-            -118.588453499202,34.1886520025955,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1155">
-        <name>Cal State LA</name>
-        <Point>
-          <coordinates>
-            -118.167990999996,34.0626669999993,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1156">
-        <name>Tampa</name>
-        <Point>
-          <coordinates>
-            -118.553449497357,34.181263002246,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1157">
-        <name>Sepulveda</name>
-        <Point>
-          <coordinates>
-            -118.468872999806,34.1807905000974,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1158">
-        <name>El Monte</name>
-        <Point>
-          <coordinates>
-            -118.045132,34.072191,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1159">
-        <name>Woodley</name>
-        <Point>
-          <coordinates>
-            -118.483642999554,34.186240502575,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1160">
-        <name>Woodman</name>
-        <Point>
-          <coordinates>
-            -118.429521499843,34.1790065000293,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1161">
-        <name>Balboa</name>
-        <Point>
-          <coordinates>
-            -118.500514499888,34.1859260001711,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1162">
-        <name>Nordhoff</name>
-        <Point>
-          <coordinates>
-            -118.59726000057,34.2354085000204,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1163">
-        <name>Chatsworth</name>
-        <Point>
-          <coordinates>
-            -118.59933,34.252067,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1164">
-        <name>Roscoe</name>
-        <Point>
-          <coordinates>
-            -118.597230500516,34.2197700000158,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1165">
-        <name>Downtown Long Beach</name>
-        <Point>
-          <coordinates>
-            -118.192921,33.768071,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1166">
-        <name>Pacific Av</name>
-        <Point>
-          <coordinates>
-            -118.1937,33.772258,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1167">
-        <name>Anaheim St</name>
-        <Point>
-          <coordinates>
-            -118.189384,33.78183,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1168">
-        <name>Pacific Coast Hwy</name>
-        <Point>
-          <coordinates>
-            -118.189382,33.78909,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1169">
-        <name>Willow St</name>
-        <Point>
-          <coordinates>
-            -118.189834,33.807079,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1170">
-        <name>Wardlow</name>
-        <Point>
-          <coordinates>
-            -118.19609,33.819865,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1171">
-        <name>Del Amo</name>
-        <Point>
-          <coordinates>
-            -118.211017,33.848222,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1172">
-        <name>Artesia</name>
-        <Point>
-          <coordinates>
-            -118.222503,33.876082,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1173">
-        <name>Compton</name>
-        <Point>
-          <coordinates>
-            -118.224249,33.89749,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1174">
-        <name>Firestone</name>
-        <Point>
-          <coordinates>
-            -118.243205,33.959611,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1175">
-        <name>Florence</name>
-        <Point>
-          <coordinates>
-            -118.243271,33.97374,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1176">
-        <name>Slauson</name>
-        <Point>
-          <coordinates>
-            -118.243398,33.98876,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1177">
-        <name>Vernon</name>
-        <Point>
-          <coordinates>
-            -118.243303,34.00292,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1178">
-        <name>Washington</name>
-        <Point>
-          <coordinates>
-            -118.243084,34.01965,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1179">
-        <name>San Pedro St</name>
-        <Point>
-          <coordinates>
-            -118.255505,34.026807,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1180">
-        <name>Pico</name>
-        <Point>
-          <coordinates>
-            -118.266118,34.040735,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1181">
-        <name>Farmdale</name>
-        <Point>
-          <coordinates>
-            -118.346095,34.023981,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1182">
-        <name>Culver City</name>
-        <Point>
-          <coordinates>
-            -118.388986,34.027896,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1183">
-        <name>Palms</name>
-        <Point>
-          <coordinates>
-            -118.404255,34.029323,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1184">
-        <name>Downtown Santa Monica</name>
-        <Point>
-          <coordinates>
-            -118.491384,34.01401,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1185">
-        <name>1st St</name>
-        <Point>
-          <coordinates>
-            -118.189362,33.76874,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1186">
-        <name>5th St</name>
-        <Point>
-          <coordinates>
-            -118.189412,33.773598,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1187">
-        <name>North Hollywood</name>
-        <Point>
-          <coordinates>
-            -118.376808,34.168504,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1188">
-        <name>Pershing Square</name>
-        <Point>
-          <coordinates>
-            -118.251259,34.049316,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1189">
-        <name>Union Station</name>
-        <Point>
-          <coordinates>
-            -118.234249,34.056197,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1190">
-        <name>Redondo Beach</name>
-        <Point>
-          <coordinates>
-            -118.369196,33.89464,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1191">
-        <name>Douglas</name>
-        <Point>
-          <coordinates>
-            -118.383113,33.905299,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1192">
-        <name>El Segundo</name>
-        <Point>
-          <coordinates>
-            -118.386539,33.916063,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1193">
-        <name>Mariposa</name>
-        <Point>
-          <coordinates>
-            -118.387572,33.9232,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1194">
-        <name>Crenshaw</name>
-        <Point>
-          <coordinates>
-            -118.32655,33.925201,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1195">
-        <name>Harbor Fwy</name>
-        <Point>
-          <coordinates>
-            -118.2811,33.928714,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1196">
-        <name>Avalon</name>
-        <Point>
-          <coordinates>
-            -118.265217,33.927465,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1197">
-        <name>Lynwood</name>
-        <Point>
-          <coordinates>
-            -118.209945,33.92488,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1198">
-        <name>Lakewood Bl</name>
-        <Point>
-          <coordinates>
-            -118.1406,33.91307,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1199">
-        <name>Norwalk</name>
-        <Point>
-          <coordinates>
-            -118.104717,33.914033,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1200">
-        <name>Atlantic</name>
-        <Point>
-          <coordinates>
-            -118.154469,34.033398,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1201">
-        <name>East LA Civic Ctr</name>
-        <Point>
-          <coordinates>
-            -118.161206,34.033364,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1202">
-        <name>Maravilla</name>
-        <Point>
-          <coordinates>
-            -118.16814,34.033319,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1203">
-        <name>Indiana</name>
-        <Point>
-          <coordinates>
-            -118.192182,34.0343,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1204">
-        <name>Soto</name>
-        <Point>
-          <coordinates>
-            -118.210061,34.043747,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1205">
-        <name>Mariachi Plaza</name>
-        <Point>
-          <coordinates>
-            -118.219648,34.047215,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1206">
-        <name>Chinatown</name>
-        <Point>
-          <coordinates>
-            -118.23584,34.063861,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1207">
-        <name>Heritage Sq</name>
-        <Point>
-          <coordinates>
-            -118.213213,34.087227,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1208">
-        <name>Southwest Museum</name>
-        <Point>
-          <coordinates>
-            -118.206712,34.098243,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1209">
-        <name>Highland Park</name>
-        <Point>
-          <coordinates>
-            -118.192606,34.111179,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1210">
-        <name>South Pasadena</name>
-        <Point>
-          <coordinates>
-            -118.157886,34.115186,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1211">
-        <name>Fillmore</name>
-        <Point>
-          <coordinates>
-            -118.148126,34.133521,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1212">
-        <name>Del Mar</name>
-        <Point>
-          <coordinates>
-            -118.148214,34.14191,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1213">
-        <name>Memorial Park</name>
-        <Point>
-          <coordinates>
-            -118.147512,34.148356,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1214">
-        <name>Lake</name>
-        <Point>
-          <coordinates>
-            -118.13139,34.151806,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1215">
-        <name>Allen</name>
-        <Point>
-          <coordinates>
-            -118.114348,34.152417,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1216">
-        <name>Sierra Madre Villa</name>
-        <Point>
-          <coordinates>
-            -118.081212,34.147752,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1217">
-        <name>Arcadia</name>
-        <Point>
-          <coordinates>
-            -118.029199,34.14286,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1218">
-        <name>Monrovia</name>
-        <Point>
-          <coordinates>
-            -118.003473,34.133155,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1219">
-        <name>Irwindale</name>
-        <Point>
-          <coordinates>
-            -117.932506,34.129048,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1220">
-        <name>Azusa Downtown</name>
-        <Point>
-          <coordinates>
-            -117.906631,34.135863,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1221">
-        <name>LAX / Metro Transit Center</name>
-        <Point>
-          <coordinates>
-            -118.378679,33.949867,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1222">
-        <name>Downtown Inglewood</name>
-        <Point>
-          <coordinates>
-            -118.351497,33.967156,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1223">
-        <name>Fairview Heights</name>
-        <Point>
-          <coordinates>
-            -118.336072,33.975252,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1224">
-        <name>Hyde Park</name>
-        <Point>
-          <coordinates>
-            -118.330816,33.988187,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1225">
-        <name>Leimert Park</name>
-        <Point>
-          <coordinates>
-            -118.332016,34.003909,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1226">
-        <name>Martin Luther King Jr</name>
-        <Point>
-          <coordinates>
-            -118.335359,34.009563,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1227">
-        <name>Historic Broadway</name>
-        <Point>
-          <coordinates>
-            -118.246321,34.052156,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1228">
-        <name>Glendora</name>
-        <Point>
-          <coordinates>
-            -117.866245251186,34.1318358748096,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1229">
-        <name>San Dimas</name>
-        <Point>
-          <coordinates>
-            -117.806932652406,34.1054442260578,0
-          </coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="la_stops_list__reprojected.1230">
         <name>Lincoln / California</name>
         <Point>
@@ -9963,22 +8942,6 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="la_stops_list__reprojected.1304">
-        <name>Harbor Gateway Transit Ctr</name>
-        <Point>
-          <coordinates>
-            -118.287306,33.869338,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1305">
-        <name>La Verne / Fairplex</name>
-        <Point>
-          <coordinates>
-            -117.768112865288,34.097226209052,0
-          </coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="la_stops_list__reprojected.1306">
         <name>San Gabriel / Colorado</name>
         <Point>
@@ -10136,14 +9099,6 @@
         <Point>
           <coordinates>
             -118.441785,34.033879,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1331">
-        <name>Pomona North</name>
-        <Point>
-          <coordinates>
-            -117.752334444084,34.0937471761569,0
           </coordinates>
         </Point>
       </Placemark>
@@ -10667,46 +9622,6 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="la_stops_list__reprojected.1398">
-        <name>37th St / USC</name>
-        <Point>
-          <coordinates>
-            -118.280113499817,34.0177375001524,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1399">
-        <name>Rosecrans</name>
-        <Point>
-          <coordinates>
-            -118.286616999653,33.9018910001821,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1400">
-        <name>Manchester</name>
-        <Point>
-          <coordinates>
-            -118.280796500228,33.9597190002346,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1401">
-        <name>Slauson</name>
-        <Point>
-          <coordinates>
-            -118.280465499719,33.9887785002949,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list__reprojected.1402">
-        <name>Van Nuys</name>
-        <Point>
-          <coordinates>
-            -118.448697000399,34.1793985004487,0
-          </coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="la_stops_list__reprojected.122">
         <name>Ventura / Av Oriente</name>
         <Point>
@@ -10833,6 +9748,1858 @@
           <extrude>0</extrude>
           <coordinates>
             -117.751414064339,34.059349405951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.115">
+        <name>Jefferson / Normandie</name>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.300481999875,34.0255185000285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.123">
+        <name>Reseda / Strathern</name>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.536076000127,34.2158635000956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.943">
+        <name>Willowbrook / Rosa Parks</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.237555,33.928048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.944">
+        <name>103rd St / Watts Towers</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.243159,33.94222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.945">
+        <name>Grand / LATTC</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.269333,34.033155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.946">
+        <name>LATTC / Ortho Institute</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.273603,34.029112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.947">
+        <name>Jefferson / USC</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.278118,34.022123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.948">
+        <name>Expo Park / USC</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.285734,34.018227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.949">
+        <name>Expo / Vermont</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.29154,34.018245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.950">
+        <name>Expo / Western</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.30891,34.018331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.951">
+        <name>Expo / Crenshaw</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.335078,34.022526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.952">
+        <name>Expo / La Brea</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.355159,34.024803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.953">
+        <name>La Cienega / Jefferson</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.37212,34.026355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.954">
+        <name>Westwood / Rancho Park</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.424576,34.036816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.955">
+        <name>Expo / Sepulveda</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.434234,34.035408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.956">
+        <name>Expo / Bundy</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.452896,34.031705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.957">
+        <name>26th St / Bergamot</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.46912,34.027995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.958">
+        <name>17th St / SMC</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.480372,34.023155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.959">
+        <name>Universal City / Studio City</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.362699,34.140002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.960">
+        <name>Hollywood / Highland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.338549,34.101547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.961">
+        <name>Hollywood / Vine</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.32518,34.10163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.962">
+        <name>Hollywood / Western</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.308117,34.101737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.963">
+        <name>Vermont / Sunset</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.291756,34.097708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.964">
+        <name>Vermont / Santa Monica</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.29173,34.08991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.965">
+        <name>Vermont / Beverly</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.291686,34.076526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.966">
+        <name>Wilshire / Vermont</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.290082,34.062701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.967">
+        <name>Westlake / MacArthur Park</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.274879,34.056368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.968">
+        <name>7th St / Metro Ctr</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.258682,34.048634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.969">
+        <name>Civic Ctr / Grand Park</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.246057,34.0549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.970">
+        <name>Wilshire / Normandie</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.301458,34.061753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.971">
+        <name>Wilshire / Western</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.308756,34.061689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.972">
+        <name>Aviation / Imperial</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.377134,33.929621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.973">
+        <name>Hawthorne / Lennox</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.351602,33.933408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.974">
+        <name>Vermont / Athens</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.291733,33.928683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.975">
+        <name>Pico / Aliso</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.22594,34.047634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.976">
+        <name>Lincoln / Cypress</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.220429,34.080949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.977">
+        <name>Duarte / City of Hope</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -117.96768,34.132518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.978">
+        <name>APU / Citrus College</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -117.891636,34.136814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.979">
+        <name>Aviation / Century</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.378683,33.945572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.980">
+        <name>Westchester / Veterans</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.374378,33.962031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.981">
+        <name>Grand Av Arts / Bunker Hill</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.251531,34.054724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.982">
+        <name>Little Tokyo / Arts Dist</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.238757,34.048845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1147">
+        <name>Pierce College</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.570937497403,34.1871720021673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1148">
+        <name>Sherman Way</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.59713200013,34.2004250000221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1149">
+        <name>Reseda</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.536021999503,34.1803920025277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1150">
+        <name>Laurel Canyon</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.396488999512,34.1685205027279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1151">
+        <name>LA General Medical Ctr</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.210980000002,34.0556575000004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1152">
+        <name>Valley College</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.422351995918,34.1722715013326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1153">
+        <name>Canoga</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.596456439026,34.1909066880741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1154">
+        <name>De Soto</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.588453499202,34.1886520025955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1155">
+        <name>Cal State LA</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.167990999996,34.0626669999993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1156">
+        <name>Tampa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.553449497357,34.181263002246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1157">
+        <name>Sepulveda</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.468872999806,34.1807905000974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1158">
+        <name>El Monte</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.045132,34.072191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1159">
+        <name>Woodley</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.483642999554,34.186240502575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1160">
+        <name>Woodman</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.429521499843,34.1790065000293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1161">
+        <name>Balboa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.500514499888,34.1859260001711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1162">
+        <name>Nordhoff</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.59726000057,34.2354085000204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1163">
+        <name>Chatsworth</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.59933,34.252067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1164">
+        <name>Roscoe</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.597230500516,34.2197700000158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1165">
+        <name>Downtown Long Beach</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.192921,33.768071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1166">
+        <name>Pacific Av</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.1937,33.772258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1167">
+        <name>Anaheim St</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.189384,33.78183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1168">
+        <name>Pacific Coast Hwy</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.189382,33.78909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1169">
+        <name>Willow St</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.189834,33.807079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1170">
+        <name>Wardlow</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.19609,33.819865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1171">
+        <name>Del Amo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.211017,33.848222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1172">
+        <name>Artesia</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.222503,33.876082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1173">
+        <name>Compton</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.224249,33.89749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1174">
+        <name>Firestone</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.243205,33.959611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1175">
+        <name>Florence</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.243271,33.97374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1176">
+        <name>Slauson</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.243398,33.98876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1177">
+        <name>Vernon</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.243303,34.00292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1178">
+        <name>Washington</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.243084,34.01965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1179">
+        <name>San Pedro St</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.255505,34.026807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1180">
+        <name>Pico</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.266118,34.040735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1181">
+        <name>Farmdale</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.346095,34.023981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1182">
+        <name>Culver City</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.388986,34.027896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1183">
+        <name>Palms</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.404255,34.029323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1184">
+        <name>Downtown Santa Monica</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.491384,34.01401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1185">
+        <name>1st St</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.189362,33.76874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1186">
+        <name>5th St</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.189412,33.773598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1187">
+        <name>North Hollywood</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.376808,34.168504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1188">
+        <name>Pershing Square</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.251259,34.049316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1189">
+        <name>Union Station</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.234249,34.056197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1190">
+        <name>Redondo Beach</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.369196,33.89464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1191">
+        <name>Douglas</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.383113,33.905299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1192">
+        <name>El Segundo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.386539,33.916063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1193">
+        <name>Mariposa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.387572,33.9232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1194">
+        <name>Crenshaw</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.32655,33.925201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1195">
+        <name>Harbor Fwy</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.2811,33.928714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1196">
+        <name>Avalon</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.265217,33.927465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1197">
+        <name>Lynwood</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.209945,33.92488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1198">
+        <name>Lakewood Bl</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.1406,33.91307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1199">
+        <name>Norwalk</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.104717,33.914033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1200">
+        <name>Atlantic</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.154469,34.033398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1201">
+        <name>East LA Civic Ctr</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.161206,34.033364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1202">
+        <name>Maravilla</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.16814,34.033319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1203">
+        <name>Indiana</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.192182,34.0343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1204">
+        <name>Soto</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.210061,34.043747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1205">
+        <name>Mariachi Plaza</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.219648,34.047215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1206">
+        <name>Chinatown</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.23584,34.063861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1207">
+        <name>Heritage Sq</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.213213,34.087227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1208">
+        <name>Southwest Museum</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.206712,34.098243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1209">
+        <name>Highland Park</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.192606,34.111179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1210">
+        <name>South Pasadena</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.157886,34.115186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1211">
+        <name>Fillmore</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.148126,34.133521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1212">
+        <name>Del Mar</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.148214,34.14191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1213">
+        <name>Memorial Park</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.147512,34.148356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1214">
+        <name>Lake</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.13139,34.151806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1215">
+        <name>Allen</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.114348,34.152417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1216">
+        <name>Sierra Madre Villa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.081212,34.147752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1217">
+        <name>Arcadia</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.029199,34.14286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1218">
+        <name>Monrovia</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.003473,34.133155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1219">
+        <name>Irwindale</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -117.932506,34.129048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1220">
+        <name>Azusa Downtown</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -117.906631,34.135863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1221">
+        <name>LAX / Metro Transit Center</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.378679,33.949867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1222">
+        <name>Downtown Inglewood</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.351497,33.967156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1223">
+        <name>Fairview Heights</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.336072,33.975252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1224">
+        <name>Hyde Park</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.330816,33.988187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1225">
+        <name>Leimert Park</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.332016,34.003909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1226">
+        <name>Martin Luther King Jr</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.335359,34.009563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1227">
+        <name>Historic Broadway</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.246321,34.052156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1228">
+        <name>Glendora</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -117.866245251186,34.1318358748096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1229">
+        <name>San Dimas</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -117.806932652406,34.1054442260578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1304">
+        <name>Harbor Gateway Transit Ctr</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.287306,33.869338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1305">
+        <name>La Verne / Fairplex</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -117.768112865288,34.097226209052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1331">
+        <name>Pomona North</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -117.752334444084,34.0937471761569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1398">
+        <name>37th St / USC</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.280113499817,34.0177375001524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1399">
+        <name>Rosecrans</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.286616999653,33.9018910001821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1400">
+        <name>Manchester</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.280796500228,33.9597190002346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1401">
+        <name>Slauson</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.280465499719,33.9887785002949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1402">
+        <name>Van Nuys</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list__reprojected.schema">
+            <SimpleData name="RB Stop">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.448697000399,34.1793985004487,0
           </coordinates>
         </Point>
       </Placemark>
