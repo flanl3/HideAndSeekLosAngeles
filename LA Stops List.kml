@@ -2526,14 +2526,6 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="la_stops_list__reprojected.327">
-        <name>Jefferson / Cochran</name>
-        <Point>
-          <coordinates>
-            -118.361412999895,34.0255810000173,0
-          </coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="la_stops_list__reprojected.328">
         <name>Vermont / Manchester</name>
         <Point>
