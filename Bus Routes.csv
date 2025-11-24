@@ -1,0 +1,76 @@
+route_id,route_name,layer
+Beeline 1,Glendale Transportation Center to Stocker Square,Beeline Routes
+Beeline 4,Glendale Transportation Center to Glendale Galleria,Beeline Routes
+BBB 1,Main St & Santa Monica Blvd/UCLA,Big Blue Bus Routes
+BBB 7,Pico Blvd,Big Blue Bus Routes
+BBB 3,Lincoln Blvd/LAX,Big Blue Bus Routes
+CCB 1,Washington Boulevard,Culver CityBus Routes
+CCB 6,Sepulveda Boulevard,Culver CityBus Routes
+CCB Rapid 6,Sepulveda Boulevard,Culver CityBus Routes
+DASH B,DASH B,DASH Routes
+DASH E,DASH E,DASH Routes
+DASH F,DASH F,DASH Routes
+DASH D,DASH D,DASH Routes
+DASH A,DASH A,DASH Routes
+DASH Pico Union/Echo Park,Pico Union/Echo Park,DASH Routes
+DASH Sylmar,Sylmar,DASH Routes
+"486",Pomona-La Puente-El Monte Via Amar Rd,Foothill Routes
+"187",Azusa - Arcadia - Pasadena,Foothill Routes
+"194",Pomona - Industry - La Puente - El Monte,Foothill Routes
+"280",Azusa - Puente Hills Mall via Azusa Ave,Foothill Routes
+Silver Streak,Montclair - Pomona - El Monte - L.A.,Foothill Routes
+GTrans 2,GTrans 2,GTrans Routes
+Long Beach 51,Long Beach Blvd,Long Beach Routes
+Long Beach 61,Atlantic Ave,Long Beach Routes
+"10",Metro Local Line10/48,Metro Routes
+"105",Metro Local Line105,Metro Routes
+"108",Metro Local Line108,Metro Routes
+"110",Metro Local Line110,Metro Routes
+"111",Metro Local Line111,Metro Routes
+"115",Metro Local Line115,Metro Routes
+"117",Metro Local Line117,Metro Routes
+14/37,Metro Local Line14/37,Metro Routes
+"152",Metro Local Line152,Metro Routes
+"16",Metro Local Line16,Metro Routes
+"162",Metro Local Line162,Metro Routes
+"164",Metro Local Line164,Metro Routes
+"165",Metro Local Line165,Metro Routes
+"166",Metro Local Line166,Metro Routes
+"18",Metro Local Line18,Metro Routes
+"180",Metro Local Line180,Metro Routes
+"2",Metro Local Line2,Metro Routes
+"20",Metro Local Line20,Metro Routes
+"204",Metro Local Line204,Metro Routes
+"206",Metro Local Line206,Metro Routes
+"207",Metro Local Line207,Metro Routes
+"210",Metro Local Line210,Metro Routes
+"212",Metro Local Line212,Metro Routes
+"217",Metro Local Line217,Metro Routes
+"224",Metro Local Line224,Metro Routes
+"233",Metro Local Line233,Metro Routes
+"234",Metro Local Line234,Metro Routes
+"240",Metro Local Line240,Metro Routes
+"251",Metro Local Line251,Metro Routes
+260/261,Metro Local Line260/261,Metro Routes
+"28",Metro Local Line28,Metro Routes
+"30",Metro Local Line30,Metro Routes
+"33",Metro Local Line33,Metro Routes
+"35",Metro Local Line35/38,Metro Routes
+"4",Metro Local Line4,Metro Routes
+"40",Metro Local Line40,Metro Routes
+"45",Metro Local Line45,Metro Routes
+"51",Metro Local Line51,Metro Routes
+"53",Metro Local Line53,Metro Routes
+"55",Metro Local Line55,Metro Routes
+"60",Metro Local Line60,Metro Routes
+"605",Metro Local Line605,Metro Routes
+"66",Metro Local Line66,Metro Routes
+"70",Metro Local Line70,Metro Routes
+"720",Metro Rapid Line720,Metro Rapid
+"754",Metro Rapid Line754,Metro Rapid
+"76",Metro Local Line76,Metro Routes
+"761",Metro Rapid Line761,Metro Rapid
+"78",Metro Local Line78,Metro Routes
+"81",Metro Local Line81,Metro Routes
+"93",Metro Local Line93,Metro Routes
+"94",Metro Local Line94,Metro Routes
