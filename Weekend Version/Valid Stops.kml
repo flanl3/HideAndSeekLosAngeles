@@ -11138,159 +11138,6 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="la_stops_list.1240">
-        <name>Universal City / Studio City</name>
-        <ExtendedData>
-          <SchemaData schemaUrl="#la_stops_list">
-            <SimpleData name="id">la_stops_list__reprojected.959</SimpleData>
-            <SimpleData name="tessellate">-1</SimpleData>
-            <SimpleData name="extrude">0</SimpleData>
-            <SimpleData name="visibility">-1</SimpleData>
-            <SimpleData name="RB Stop">1</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -118.362699,34.140002,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list.1241">
-        <name>Hollywood / Highland</name>
-        <ExtendedData>
-          <SchemaData schemaUrl="#la_stops_list">
-            <SimpleData name="id">la_stops_list__reprojected.960</SimpleData>
-            <SimpleData name="tessellate">-1</SimpleData>
-            <SimpleData name="extrude">0</SimpleData>
-            <SimpleData name="visibility">-1</SimpleData>
-            <SimpleData name="RB Stop">1</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -118.338549,34.101547,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list.1242">
-        <name>Hollywood / Vine</name>
-        <ExtendedData>
-          <SchemaData schemaUrl="#la_stops_list">
-            <SimpleData name="id">la_stops_list__reprojected.961</SimpleData>
-            <SimpleData name="tessellate">-1</SimpleData>
-            <SimpleData name="extrude">0</SimpleData>
-            <SimpleData name="visibility">-1</SimpleData>
-            <SimpleData name="RB Stop">1</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -118.32518,34.10163,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list.1243">
-        <name>Hollywood / Western</name>
-        <ExtendedData>
-          <SchemaData schemaUrl="#la_stops_list">
-            <SimpleData name="id">la_stops_list__reprojected.962</SimpleData>
-            <SimpleData name="tessellate">-1</SimpleData>
-            <SimpleData name="extrude">0</SimpleData>
-            <SimpleData name="visibility">-1</SimpleData>
-            <SimpleData name="RB Stop">1</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -118.308117,34.101737,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list.1244">
-        <name>Vermont / Sunset</name>
-        <ExtendedData>
-          <SchemaData schemaUrl="#la_stops_list">
-            <SimpleData name="id">la_stops_list__reprojected.963</SimpleData>
-            <SimpleData name="tessellate">-1</SimpleData>
-            <SimpleData name="extrude">0</SimpleData>
-            <SimpleData name="visibility">-1</SimpleData>
-            <SimpleData name="RB Stop">1</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -118.291756,34.097708,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list.1245">
-        <name>Vermont / Santa Monica</name>
-        <ExtendedData>
-          <SchemaData schemaUrl="#la_stops_list">
-            <SimpleData name="id">la_stops_list__reprojected.964</SimpleData>
-            <SimpleData name="tessellate">-1</SimpleData>
-            <SimpleData name="extrude">0</SimpleData>
-            <SimpleData name="visibility">-1</SimpleData>
-            <SimpleData name="RB Stop">1</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -118.29173,34.08991,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list.1246">
-        <name>Vermont / Beverly</name>
-        <ExtendedData>
-          <SchemaData schemaUrl="#la_stops_list">
-            <SimpleData name="id">la_stops_list__reprojected.965</SimpleData>
-            <SimpleData name="tessellate">-1</SimpleData>
-            <SimpleData name="extrude">0</SimpleData>
-            <SimpleData name="visibility">-1</SimpleData>
-            <SimpleData name="RB Stop">1</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -118.291686,34.076526,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list.1247">
-        <name>Wilshire / Vermont</name>
-        <ExtendedData>
-          <SchemaData schemaUrl="#la_stops_list">
-            <SimpleData name="id">la_stops_list__reprojected.966</SimpleData>
-            <SimpleData name="tessellate">-1</SimpleData>
-            <SimpleData name="extrude">0</SimpleData>
-            <SimpleData name="visibility">-1</SimpleData>
-            <SimpleData name="RB Stop">1</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -118.290082,34.062701,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list.1248">
-        <name>Westlake / MacArthur Park</name>
-        <ExtendedData>
-          <SchemaData schemaUrl="#la_stops_list">
-            <SimpleData name="id">la_stops_list__reprojected.967</SimpleData>
-            <SimpleData name="tessellate">-1</SimpleData>
-            <SimpleData name="extrude">0</SimpleData>
-            <SimpleData name="visibility">-1</SimpleData>
-            <SimpleData name="RB Stop">1</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -118.274879,34.056368,0
-          </coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="la_stops_list.1249">
         <name>7th St / Metro Ctr</name>
         <ExtendedData>
@@ -11305,57 +11152,6 @@
         <Point>
           <coordinates>
             -118.258682,34.048634,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list.1250">
-        <name>Civic Ctr / Grand Park</name>
-        <ExtendedData>
-          <SchemaData schemaUrl="#la_stops_list">
-            <SimpleData name="id">la_stops_list__reprojected.969</SimpleData>
-            <SimpleData name="tessellate">-1</SimpleData>
-            <SimpleData name="extrude">0</SimpleData>
-            <SimpleData name="visibility">-1</SimpleData>
-            <SimpleData name="RB Stop">1</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -118.246057,34.0549,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list.1251">
-        <name>Wilshire / Normandie</name>
-        <ExtendedData>
-          <SchemaData schemaUrl="#la_stops_list">
-            <SimpleData name="id">la_stops_list__reprojected.970</SimpleData>
-            <SimpleData name="tessellate">-1</SimpleData>
-            <SimpleData name="extrude">0</SimpleData>
-            <SimpleData name="visibility">-1</SimpleData>
-            <SimpleData name="RB Stop">1</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -118.301458,34.061753,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="la_stops_list.1252">
-        <name>Wilshire / Western</name>
-        <ExtendedData>
-          <SchemaData schemaUrl="#la_stops_list">
-            <SimpleData name="id">la_stops_list__reprojected.971</SimpleData>
-            <SimpleData name="tessellate">-1</SimpleData>
-            <SimpleData name="extrude">0</SimpleData>
-            <SimpleData name="visibility">-1</SimpleData>
-            <SimpleData name="RB Stop">1</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -118.308756,34.061689,0
           </coordinates>
         </Point>
       </Placemark>
@@ -12243,23 +12039,6 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark id="la_stops_list.1305">
-        <name>Pershing Square</name>
-        <ExtendedData>
-          <SchemaData schemaUrl="#la_stops_list">
-            <SimpleData name="id">la_stops_list__reprojected.1188</SimpleData>
-            <SimpleData name="tessellate">-1</SimpleData>
-            <SimpleData name="extrude">0</SimpleData>
-            <SimpleData name="visibility">-1</SimpleData>
-            <SimpleData name="RB Stop">1</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -118.251259,34.049316,0
-          </coordinates>
-        </Point>
-      </Placemark>
       <Placemark id="la_stops_list.1306">
         <name>Union Station</name>
         <ExtendedData>
@@ -13090,6 +12869,188 @@
         <Point>
           <coordinates>
             -118.448697000399,34.1793985004487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.959">
+        <name>Universal City / Studio City</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list">
+            <SimpleData name="RB Stop">0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.362699,34.140002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.960">
+        <name>Hollywood / Highland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list">
+            <SimpleData name="RB Stop">0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.338549,34.101547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.961">
+        <name>Hollywood / Vine</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list">
+            <SimpleData name="RB Stop">0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.32518,34.10163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.962">
+        <name>Hollywood / Western</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list">
+            <SimpleData name="RB Stop">0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.308117,34.101737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.963">
+        <name>Vermont / Sunset</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list">
+            <SimpleData name="RB Stop">0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.291756,34.097708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.964">
+        <name>Vermont / Santa Monica</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list">
+            <SimpleData name="RB Stop">0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.29173,34.08991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.965">
+        <name>Vermont / Beverly</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list">
+            <SimpleData name="RB Stop">0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.291686,34.076526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.966">
+        <name>Wilshire / Vermont</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list">
+            <SimpleData name="RB Stop">0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.290082,34.062701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.967">
+        <name>Westlake / MacArthur Park</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list">
+            <SimpleData name="RB Stop">0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.274879,34.056368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.969">
+        <name>Civic Ctr / Grand Park</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list">
+            <SimpleData name="RB Stop">0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.246057,34.0549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.970">
+        <name>Wilshire / Normandie</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list">
+            <SimpleData name="RB Stop">0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.301458,34.061753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.971">
+        <name>Wilshire / Western</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list">
+            <SimpleData name="RB Stop">0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.308756,34.061689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="la_stops_list__reprojected.1188">
+        <name>Pershing Square</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#la_stops_list">
+            <SimpleData name="RB Stop">0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <coordinates>
+            -118.251259,34.049316,0
           </coordinates>
         </Point>
       </Placemark>
